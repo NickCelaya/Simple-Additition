@@ -1,0 +1,61 @@
+
+@import url('https://fonts.googleapis.com/css?family=Lobster');
+
+
+*{
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+}
+
+body{
+  background-color: black;
+}
+
+
+.appTitle{
+  background: linear-gradient(grey, black);
+  height: 30vh;
+  font-size: 40px;
+  font-family: "lobster", cursive;
+  color: white;
+  margin-bottom: 20vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+
+.theNums{
+  /*background-color: green;*/
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-left: 10%;
+}
+
+.buttonPlacement{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-right: 17px;
+}
+
+.buttonSize{
+  height: 30px;
+  width: 30px;
+}
+
+
+input{
+  height: 50px;
+  width: 120px;
+  font-size: 40px;
+}
+
+.sum{
+  height: 50px;
+  width: 120px;
+  font-size: 40px;
+}
