@@ -1,7 +1,7 @@
 angular.module("testApp").controller("mainCtrl", function($scope, mainService){
 
 $scope.numOne;
-$scope.numTwoo;
+$scope.numTwo;
 
 $scope.sum
 
